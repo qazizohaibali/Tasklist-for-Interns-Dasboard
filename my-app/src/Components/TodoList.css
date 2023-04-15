@@ -1,0 +1,19 @@
+.first_part{
+    display: flex;
+    /* flex-direction: column; */
+    align-items: center;
+    justify-content: center; 
+    align-items: center; 
+    text-align: center;
+    height: 200px;
+    
+
+    background-color: #E9EEF6;
+}
+
+.TaskContainer{
+   display: flex;
+   justify-content: space-evenly;
+   flex-wrap: wrap;
+    
+}

@@ -1,0 +1,19 @@
+.cards-icons,.dropdown{
+    display: flex;
+    justify-content: flex-end;
+}
+.upper_part_card{
+display: flex;
+justify-content: space-between;
+align-items: center;}
+
+.card{
+   /* margin-left: 0.1rem; */
+   margin-top: 3rem;
+    width: 280px;
+  
+    height: auto !important;
+    /* background-color: blue;
+    border-top: 0.25rem solid rgb(33, 154, 154) !important; */
+}
+  
